@@ -34,7 +34,7 @@ body{
     font-family:'Noto Sans KR', sans-serif;
     font-size:13px;
     color:#0a2b4a;
-    cursor: url('/images/cursor_dogF.cur'), auto;
+    cursor: url('../images/cursor_dogF.cur'), auto;
 }
 /* clearFix::after */
 .clearFix::after{
